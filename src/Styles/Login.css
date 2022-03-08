@@ -1,0 +1,18 @@
+.formWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.loginForm {
+  display: inherit;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 30em;
+}
+
+.loginForm button {
+  margin-top: 2em;
+}

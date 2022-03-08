@@ -1,0 +1,19 @@
+.headerWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.loginFormHeader {
+  margin-top: 1em;
+  font-size: x-large;
+}
+
+.loginBreakLine {
+  background-color: #333;
+  width: 20em;
+  height: 1px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
